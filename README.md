@@ -7,4 +7,4 @@ Technologies Used:
 HTML
 CSS
 JavaScript
-API
+API- Weather forecast
